@@ -1,5 +1,8 @@
 {
-  "name": "austral-ui",
+  "name": "@oscarcornejo/austral-ui",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/oscarcornejo"
+  },
   "version": "0.0.1",
   "description": "",
   "scripts": {
